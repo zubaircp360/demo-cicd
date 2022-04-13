@@ -80,4 +80,3 @@ jobs:
          -Danypoint.username="$USERNAME" \
          -Danypoint.password="$PASSWORD" \
          -DskipTests
-         -DMULE_ENV="dev"
